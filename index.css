@@ -1,10 +1,8 @@
 *{
     margin: 0;
 }
-}
 .sexs{
-    width: ;
-;
+    width:100vw ;
 }
 .personal-information{
     background-color: aqua;
@@ -15,4 +13,8 @@
     background-color: aqua;
     display: inline-block;
 
+} 
+ 
+.education{
+    background-color: aqua;
 }
